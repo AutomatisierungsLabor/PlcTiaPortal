@@ -1,0 +1,391 @@
+﻿{
+    "PlcProjektliste": [
+        {
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Getriebemotor",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "PLC_FUP_Getriebemotor",
+            "OrdnerDigitalTwin": "",
+            "OrdnerFactoryIo": "",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Linearachse",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "PLC_FUP_Linearachse",
+            "OrdnerDigitalTwin": "",
+            "OrdnerFactoryIo": "",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Förderband",
+            "Kommentar": "4001",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "FIO_FUP_Foerderband_4001",
+            "OrdnerDigitalTwin": "",
+            "OrdnerFactoryIo": "Foerderband_4001",
+            "Sprache": "Fup",
+            "Kategorie": "FactoryIo",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "FactoryIoKopieren",
+                "FachtoryIoStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Förderband",
+            "Kommentar": "4002",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "FIO_FUP_Foerderband_4002",
+            "OrdnerDigitalTwin": "",
+            "OrdnerFactoryIo": "Foerderband_4002",
+            "Sprache": "Fup",
+            "Kategorie": "FactoryIo",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "FactoryIoKopieren",
+                "FachtoryIoStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Förderband",
+            "Kommentar": "4003",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "FIO_FUP_Foerderband_4003",
+            "OrdnerDigitalTwin": "",
+            "OrdnerFactoryIo": "Foerderband_4003",
+            "Sprache": "Fup",
+            "Kategorie": "FactoryIo",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "FactoryIoKopieren",
+                "FachtoryIoStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Tank",
+            "Kommentar": "01",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "FIO_FUP_Tank_01",
+            "OrdnerDigitalTwin": "",
+            "OrdnerFactoryIo": "Tank_01",
+            "Sprache": "Fup",
+            "Kategorie": "FactoryIo",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "FactoryIoKopieren",
+                "FachtoryIoStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
+            "Kommentar": "Blinklicht Fibonacci",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_Blinklicht_Fibonacci",
+            "OrdnerDigitalTwin": "Blinklicht_Fibonacci",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
+            "Kommentar": "Kata",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_Kata",
+            "OrdnerDigitalTwin": "Kata",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
+            "Kommentar": "Nadeltelegraph",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_Nadeltelegraph",
+            "OrdnerDigitalTwin": "Nadeltelegraph",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
+            "Kommentar": "Parkhaus",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_Parkhaus",
+            "OrdnerDigitalTwin": "Parkhaus",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
+            "Kommentar": "Schleifmaschine",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_Schleifmaschine",
+            "OrdnerDigitalTwin": "Schleifmaschine",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
+            "Kommentar": "WordClock",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_WordClock",
+            "OrdnerDigitalTwin": "WordClock",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2010__1",
+            "Kommentar": "Kompressoranlage",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2010__1__Kompressoranlage",
+            "OrdnerDigitalTwin": "LAP_2010_1_Kompressoranlage",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2010__2",
+            "Kommentar": "Transportwagen",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2010__2__Transportwagen",
+            "OrdnerDigitalTwin": "LAP_2010_2_Transportwagen",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2010__3",
+            "Kommentar": "Ofentuersteuerung",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2010__3__Ofentuersteuerung",
+            "OrdnerDigitalTwin": "LAP_2010_3_Ofentuersteuerung",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2010__4",
+            "Kommentar": "Abfuellanlage",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2010__4__Abfuellanlage",
+            "OrdnerDigitalTwin": "LAP_2010_4_Abfuellanlage",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2010__5",
+            "Kommentar": "Pumpensteuerung",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2010__5__Pumpensteuerung",
+            "OrdnerDigitalTwin": "LAP_2010_5_Pumpensteuerung",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2018__1",
+            "Kommentar": "Silosteuerung",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2018__1__Silosteuerung",
+            "OrdnerDigitalTwin": "LAP_2018_1_Silosteuerung",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2018__2",
+            "Kommentar": "Abfuellanlage",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2018__2__Abfuellanlage",
+            "OrdnerDigitalTwin": "LAP_2018_2_Abfuellanlage",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2010__3",
+            "Kommentar": "Hydraulikaggregat",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2018__3__Hydraulikaggregat",
+            "OrdnerDigitalTwin": "LAP_2018_3_Hydraulikaggregat",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "LAP__2018__4",
+            "Kommentar": "Niveauregelung",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_FUP_LAP__2018__4__Niveauregelung",
+            "OrdnerDigitalTwin": "LAP_2018_4_Niveauregelung",
+            "OrdnerFactoryIo": "",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Getriebemotor",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_Labor_Getriebemotor",
+            "OrdnerDigitalTwin": "Getriebemotor",
+            "OrdnerFactoryIo": "",
+            "Sprache": "SCL",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        },
+        {
+            "Bezeichnung": "Übungsplatte",
+            "Kommentar": "Linearachse",
+            "SoftwareVersion": "TiaPortalV14Sp1",
+            "OrdnerPlc": "TEST_SCL_Labor_Linearachse",
+            "OrdnerDigitalTwin": "Linearachse",
+            "OrdnerFactoryIo": "",
+            "Sprache": "SCL",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "SorceOrdnerErstellen",
+                "ProjektKopieren",
+                "CmdDateiProjektStarten",
+                "DigitalTwinKopieren",
+                "CmdDateiDigitalTwinStarten"
+            ]
+        }
+    ]
+}
