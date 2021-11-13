@@ -1,0 +1,3 @@
+h:
+cd h:\TiaPortal\LAP_2010_3_Ofentuersteuerung_V17
+start LAP_2010_3_Ofentuersteuerung.ap17
