@@ -1,3 +1,3 @@
 h:
 cd h:\TiaPortal\LAP_2010_1_Kompressoranlage_V17
-start LAP_2010_1_Kompressoranlage.ap17
+start LAP_2010_1_Kompressoranlage_V17.ap17
