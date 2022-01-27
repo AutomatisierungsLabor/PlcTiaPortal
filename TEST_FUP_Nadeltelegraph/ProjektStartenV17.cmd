@@ -1,3 +1,2 @@
-h:
-cd h:\TiaPortal\Nadeltelegraph_V17
+cd Nadeltelegraph_V17
 start Nadeltelegraph_V17.ap17
