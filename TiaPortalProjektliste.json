@@ -17,6 +17,18 @@
                 "ProjektStarten",
                 "FactoryIoKopieren",
                 "FactoryIoStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -36,6 +48,18 @@
                 "ProjektStarten",
                 "FactoryIoKopieren",
                 "FactoryIoStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -55,6 +79,18 @@
                 "ProjektStarten",
                 "FactoryIoKopieren",
                 "FactoryIoStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -74,6 +110,18 @@
                 "ProjektStarten",
                 "FactoryIoKopieren",
                 "FactoryIoStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -93,6 +141,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -112,6 +172,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -131,6 +203,29 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "5",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - Head",
+                    "WasAnzeigen":"NurInhalt"
+                },
+                {
+                    "BausteinId": "6",
+                    "VorbereitungId": "600",
+                    "Test": "4.2",
+                    "Kommentar": "Siemens - Kata - Hardware",
+                    "WasAnzeigen":"H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "8",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - </body>",
+                    "WasAnzeigen":"NurInhalt"
+                }
             ]
         },
         {
@@ -150,6 +245,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -169,6 +276,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -188,6 +307,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -207,6 +338,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -226,6 +369,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -245,6 +400,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -264,6 +431,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -283,6 +462,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -302,6 +493,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -321,6 +524,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -340,6 +555,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -359,6 +586,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         },
         {
@@ -378,6 +617,18 @@
                 "ProjektStarten",
                 "DigitalTwinKopieren",
                 "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.1"
+                },
+                {
+                    "BausteinId": "1",
+                    "VorbereitungId": "600",
+                    "Nummer": "4.2"
+                }
             ]
         }
     ]
