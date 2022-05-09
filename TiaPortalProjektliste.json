@@ -21,6 +21,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -63,6 +65,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -105,6 +109,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -147,6 +153,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -189,17 +197,39 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "11",
+                    "PrefixH1": "1. ",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Blinker Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "12",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Blinker Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "13",
+                    "PrefixH1": "",
+                    "PrefixH2": "2.1 ",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Blinker Beispiel",
+                    "WasAnzeigen": "H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -231,6 +261,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -273,6 +305,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -315,6 +349,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -357,6 +393,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -399,6 +437,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -441,6 +481,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -483,6 +525,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -525,6 +569,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -567,6 +613,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -609,6 +657,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -651,6 +701,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -693,6 +745,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -735,6 +789,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -777,6 +833,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
@@ -819,6 +877,8 @@
             "Textbausteine": [
                 {
                     "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
                     "Kommentar": "Html - Head",
