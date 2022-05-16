@@ -265,7 +265,7 @@
         },
         {
             "Bezeichnung": "DigitalTwin",
-            "Kommentar": "Blinklicht Fibonacci",
+            "Kommentar": "Fibonacci",
             "ProjektDatei": "PlcProjekt.ap17",
             "SoftwareVersion": "TiaPortalV17Sp1",
             "ProgrammDigitalTwin": "DtFibonacci.exe",
@@ -293,13 +293,31 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
-                    "PrefixH1": "",
+                    "BausteinId": "14",
+                    "PrefixH1": "1. ",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "15",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Beschreibung",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "16",
+                    "PrefixH1": "3. ",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -391,13 +409,31 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
-                    "PrefixH1": "",
+                    "BausteinId": "17",
+                    "PrefixH1": "1. ",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "18",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Beschreibung",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "19",
+                    "PrefixH1": "3. ",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -979,13 +1015,49 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
-                    "PrefixH1": "",
+                    "BausteinId": "20",
+                    "PrefixH1": "1. ",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "21",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "2.1 ",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Variante 1",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "22",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "2.2 ",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Variante 2",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "23",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "2.3 ",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Variante 3",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "24",
+                    "PrefixH1": "2. ",
+                    "PrefixH2": "2.4 ",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Variante 4",
+                    "WasAnzeigen": "H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
