@@ -1,2 +1,0 @@
-cd LAP_2010_5_Pumpensteuerung_V17
-start LAP_2010_5_Pumpensteuerung_V17.ap17

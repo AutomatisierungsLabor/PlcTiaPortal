@@ -1,2 +1,0 @@
-cd Schleifmaschine_V17
-start Schleifmaschine_V17.ap17

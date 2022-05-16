@@ -1,2 +1,0 @@
-cd Blinklicht_Fibonacci_V17
-start Blinklicht_Fibonacci_V17.ap17

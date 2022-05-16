@@ -1,2 +1,0 @@
-cd LAP_2018_1_Silosteuerung_V17
-start LAP_2018_1_Silosteuerung_V17.ap17
