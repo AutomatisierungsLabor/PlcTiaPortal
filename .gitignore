@@ -21,6 +21,6 @@
 segments.gen
 segments_6f
 
-Logs/
-SearchIndex/
-temp/
+**/Logs/
+**/SearchIndex/
+**/temp/
