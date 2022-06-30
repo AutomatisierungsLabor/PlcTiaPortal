@@ -360,13 +360,76 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "30",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Kata - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "31",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - RS FlipFlop V1",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "32",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - RS FlipFlop V2",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "33",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - Auto Blinker V1",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "34",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - Auto Blinker V2",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "35",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - Auto Blinker V3",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "36",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - Zähler V1",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "37",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Kata - Zähler V2",
+                    "WasAnzeigen": "H1H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -476,13 +539,85 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "67",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Schleifmaschine - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "68",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Beschreibung",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "69",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Beschreibung - Not Halt",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "70",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Beschreibung - Langsame Drehzahl",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "71",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Beschreibung - Hohe Drehzahl",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "72",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Beschreibung - Langsame und Hohe Drehzahl",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "73",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Zuerst schnelle und kurz danach langsame Drehzahl vorwählen",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "74",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Zuerst schnelle und kurz danach langsame Drehzahl vorwählen",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "75",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Schleifmaschine - Testanleitung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -525,13 +660,22 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "38",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP 2010/1 Kompressoranlage - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "39",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP 2010/1 Kompressoranlage - Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -574,13 +718,22 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "40",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP 2010/2 Transportwagen - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "41",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP 2010/2 Transportwagen - Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -623,13 +776,22 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "42",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP 2010/3 Ofentürsteuerung - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "43",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP 2010/3 Ofentürsteuerung - Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -672,13 +834,22 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "44",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP 2010/4 Abfüllanlage - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "45",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP 2010/4 Abfüllanlage - Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -721,13 +892,22 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "46",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP 2010/5 Pumpensteuerung - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "47",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP 2010/5 Pumpensteuerung - Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -770,13 +950,49 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "48",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP2018/1 Silosteuerung - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "49",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/1 Silosteuerung - Aufgabenstellung - Störungen",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "50",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/1 Silosteuerung - Aufgabenstellung - Betriebsbereitschaft",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "51",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/1 Silosteuerung - Aufgabenstellung - Silo automatisch nachfüllen",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "52",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/1 Silosteuerung - Aufgabenstellung - Wagen befüllen",
+                    "WasAnzeigen": "H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -819,13 +1035,22 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "53",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP2018/2 Abfüllanlage - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "54",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/2 Abfüllanlage - Aufgabenstellung",
+                    "WasAnzeigen": "H1Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -868,13 +1093,58 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "55",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "LAP2018/3 Hydraulikaggregat - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "55",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/3 Hydraulikaggregat - Aufgabenstellung - Störungen",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "55",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/3 Hydraulikaggregat - Aufgabenstellung - Betriebsbereitschaft",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "55",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/3 Hydraulikaggregat - Aufgabenstellung - Erweiterung Ölkühler",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "55",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/3 Hydraulikaggregat - Aufgabenstellung - Erweiterung Zylinder",
+                    "WasAnzeigen": "H2Inhalt"
+                },
+                {
+                    "BausteinId": "55",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "LAP2018/3 Hydraulikaggregat - Aufgabenstellung - Erweiterung Ölfilter",
+                    "WasAnzeigen": "H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
@@ -966,13 +1236,49 @@
                     "WasAnzeigen": "NurInhalt"
                 },
                 {
-                    "BausteinId": "10",
+                    "BausteinId": "25",
                     "PrefixH1": "",
                     "PrefixH2": "",
                     "VorbereitungId": "0",
                     "Test": "-",
-                    "Kommentar": "Hier könnte Ihre Werbung stehen!",
-                    "WasAnzeigen": "NurInhalt"
+                    "Kommentar": "Getriebemotor - Hardware",
+                    "WasAnzeigen": "H1Inhalt"
+                },
+                {
+                    "BausteinId": "26",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Getriebemotor - Variante 1",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "27",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Getriebemotor - Variante 2",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "28",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Getriebemotor - Variante 3",
+                    "WasAnzeigen": "H1H2Inhalt"
+                },
+                {
+                    "BausteinId": "29",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Getriebemotor - Variante 4",
+                    "WasAnzeigen": "H1H2Inhalt"
                 },
                 {
                     "BausteinId": "8",
