@@ -270,7 +270,7 @@
             "SoftwareVersion": "TiaPortalV17Sp1",
             "ProgrammDigitalTwin": "DtFibonacci.exe",
             "OrdnerTwinCatTemplate": "-",
-            "OrdnerPlc": "TEST_SCL_Blinklicht_Fibonacci\\PlcProjekt",
+            "OrdnerPlc": "TEST_SCL_Fibonacci\\PlcProjekt",
             "OrdnerTemplateDigitalTwin": "DtTemplate",
             "OrdnerDeltaDigitalTwin": "DtFibonacci",
             "OrdnerFactoryIo": "-",
