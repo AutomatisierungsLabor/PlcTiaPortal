@@ -198,6 +198,46 @@
         },
         {
             "Bezeichnung": "DigitalTwin",
+            "Kommentar": "BehaelterSteuerung",
+            "ProjektDatei": "PlcProjekt.ap17",
+            "SoftwareVersion": "TiaPortalV17Sp1",
+            "ProgrammDigitalTwin": "DtBehaeltersteuerung.exe",
+            "OrdnerTwinCatTemplate": "-",
+            "OrdnerPlc": "TEST_SCL_BehaelterSteuerung\\PlcProjekt",
+            "OrdnerTemplateDigitalTwin": "DtTemplate",
+            "OrdnerDeltaDigitalTwin": "DtBehaeltersteuerung",
+            "OrdnerFactoryIo": "-",
+            "Sprache": "FUP",
+            "Kategorie": "AutoTests",
+            "Jobs": [
+                "ProjektKopieren",
+                "ProjektStarten",
+                "DigitalTwinKopieren",
+                "DigitalTwinStarten"
+            ],
+            "Textbausteine": [
+                {
+                    "BausteinId": "5",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - Head",
+                    "WasAnzeigen": "NurInhalt"
+                },
+                {
+                    "BausteinId": "8",
+                    "PrefixH1": "",
+                    "PrefixH2": "",
+                    "VorbereitungId": "0",
+                    "Test": "-",
+                    "Kommentar": "Html - </body>",
+                    "WasAnzeigen": "NurInhalt"
+                }
+            ]
+        },
+        {
+            "Bezeichnung": "DigitalTwin",
             "Kommentar": "Blinker",
             "ProjektDatei": "PlcProjekt.ap17",
             "SoftwareVersion": "TiaPortalV17Sp1",
